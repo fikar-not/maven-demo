@@ -2,7 +2,7 @@ name: maven dependency submission
 on:
   push:
     branches:
-      - main 
+      - master
 
 jobs:
   build:
